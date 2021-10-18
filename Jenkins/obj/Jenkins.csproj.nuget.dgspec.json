@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Jenkins\\Jenkins\\Jenkins.csproj": {}
+    "D:\\taco\\git\\Jenkins\\Jenkins\\Jenkins.csproj": {}
   },
   "projects": {
-    "D:\\Jenkins\\Jenkins\\Jenkins.csproj": {
+    "D:\\taco\\git\\Jenkins\\Jenkins\\Jenkins.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Jenkins\\Jenkins\\Jenkins.csproj",
+        "projectUniqueName": "D:\\taco\\git\\Jenkins\\Jenkins\\Jenkins.csproj",
         "projectName": "Jenkins",
-        "projectPath": "D:\\Jenkins\\Jenkins\\Jenkins.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\Jenkins\\Jenkins\\obj\\",
+        "projectPath": "D:\\taco\\git\\Jenkins\\Jenkins\\Jenkins.csproj",
+        "packagesPath": "C:\\Users\\jm111\\.nuget\\packages\\",
+        "outputPath": "D:\\taco\\git\\Jenkins\\Jenkins\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jm111\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
