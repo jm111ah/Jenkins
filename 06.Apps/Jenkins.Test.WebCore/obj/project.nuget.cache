@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "msEPNMDwYpxYR6ocegBBtNL8gGgha0UFqg0pCwoX0SMqkF94xkrRKCrWRrgWNcBeigM3kqXPZGUQdych4MEl1A==",
+  "dgSpecHash": "Tz3WmI6zZZLF/jMsiYoq36Y1WyJfZ7gCEKp8hAfdThT15wnTxE9uyRz+E9vvY5th+cFSxC09dVKAlnN0teUYaw==",
   "success": true,
-  "projectFilePath": "D:\\00.GIT\\EmptyCore\\06.Apps\\Jenkins.Test.WebCore\\Jenkins.Test.WebCore.csproj",
+  "projectFilePath": "D:\\test\\EmptyCore\\06.Apps\\Jenkins.Test.WebCore\\Jenkins.Test.WebCore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
