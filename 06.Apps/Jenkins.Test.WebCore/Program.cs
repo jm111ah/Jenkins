@@ -14,6 +14,8 @@ namespace Jenkins.Test.WebCore
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
+
+            Console.WriteLine("ttttt");
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
