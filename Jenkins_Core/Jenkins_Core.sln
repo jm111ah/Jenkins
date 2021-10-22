@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lib", "Lib", "{43CF50BC-525
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{B21E1BBD-C74A-4786-8AEE-1AD709FAF2FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jenkins_Second", "Jenkins_Second\Jenkins_Second.csproj", "{2EC8475D-67F6-414D-8420-2425537972EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{B21E1BBD-C74A-4786-8AEE-1AD709FAF2FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B21E1BBD-C74A-4786-8AEE-1AD709FAF2FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B21E1BBD-C74A-4786-8AEE-1AD709FAF2FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EC8475D-67F6-414D-8420-2425537972EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EC8475D-67F6-414D-8420-2425537972EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EC8475D-67F6-414D-8420-2425537972EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EC8475D-67F6-414D-8420-2425537972EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
