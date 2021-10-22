@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Triptopaz.Empty.Framework
-build_property.ProjectDir = D:\test\EmptyCore\01.Framework\Triptopaz.Empty.Framework\
+build_property.ProjectDir = D:\taco\git\Jenkins\01.Framework\Triptopaz.Empty.Framework\

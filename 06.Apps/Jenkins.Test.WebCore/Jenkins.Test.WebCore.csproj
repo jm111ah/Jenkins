@@ -5,4 +5,12 @@
 	<GenerateResourceNeverLockTypeAssemblies>true</GenerateResourceNeverLockTypeAssemblies>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="AWSSDK.Core" Version="3.7.3.23" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\01.Framework\Triptopaz.Empty.Framework\Triptopaz.Empty.Framework.csproj" />
+  </ItemGroup>
+
 </Project>

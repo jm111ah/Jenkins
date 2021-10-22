@@ -21,7 +21,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08.Tests", "08.Tests", "{AA
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Triptopaz.Empty.Framework", "01.Framework\Triptopaz.Empty.Framework\Triptopaz.Empty.Framework.csproj", "{DB5728A9-0F7E-467B-AA07-ED6E4A479829}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jenkins.Test.WebCore", "06.Apps\Jenkins.Test.WebCore\Jenkins.Test.WebCore.csproj", "{8540E442-E50D-4C08-96CD-4B42AB4182A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jenkins.Test.WebCore", "06.Apps\Jenkins.Test.WebCore\Jenkins.Test.WebCore.csproj", "{8540E442-E50D-4C08-96CD-4B42AB4182A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{DDDD4238-7009-4F70-BDD8-BF4B493B0BC2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,6 +39,10 @@ Global
 		{8540E442-E50D-4C08-96CD-4B42AB4182A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8540E442-E50D-4C08-96CD-4B42AB4182A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8540E442-E50D-4C08-96CD-4B42AB4182A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDDD4238-7009-4F70-BDD8-BF4B493B0BC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDDD4238-7009-4F70-BDD8-BF4B493B0BC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDDD4238-7009-4F70-BDD8-BF4B493B0BC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDDD4238-7009-4F70-BDD8-BF4B493B0BC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -44,6 +50,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{DB5728A9-0F7E-467B-AA07-ED6E4A479829} = {B993724C-5155-47C1-B631-55421BCD8090}
 		{8540E442-E50D-4C08-96CD-4B42AB4182A1} = {24F217EA-BECD-4F2A-B75A-F650B6084C23}
+		{DDDD4238-7009-4F70-BDD8-BF4B493B0BC2} = {CF9A4DFC-7AB5-44A0-B434-2C3049328529}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D377A808-662D-4945-A7C2-A0A5401CC8FE}

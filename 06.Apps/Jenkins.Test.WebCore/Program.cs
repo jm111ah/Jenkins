@@ -1,3 +1,5 @@
+using Amazon.Runtime.Internal;
+using ClassLibrary1;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
@@ -7,15 +9,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
+
 namespace Jenkins.Test.WebCore
 {
     public class Program
     {
         public static void Main(string[] args)
         {
-            CreateHostBuilder(args).Build().Run();
-
-            Console.WriteLine("ttttt");
+            Class1 tes = new Class1();
+            
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>

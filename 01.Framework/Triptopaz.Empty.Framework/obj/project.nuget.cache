@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e1bqAB3kmeQpd3/xKoKMjljhuzwyfGpXwkE7slGONBGY3Iq12fdd8bk/1niH55WcHi5xjTfw7/kM9Bip5rlMqA==",
+  "dgSpecHash": "HBHXTmJrUC8FCSrWDVi8uuQ4IbqwKsfjQDanFqq/gO02rvjiAXpHuKId2pvihOnCcCKjMXQw2jtZNEfpTOIT3g==",
   "success": true,
-  "projectFilePath": "D:\\test\\EmptyCore\\01.Framework\\Triptopaz.Empty.Framework\\Triptopaz.Empty.Framework.csproj",
+  "projectFilePath": "D:\\taco\\git\\Jenkins\\01.Framework\\Triptopaz.Empty.Framework\\Triptopaz.Empty.Framework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jm111\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
     "C:\\Users\\jm111\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
